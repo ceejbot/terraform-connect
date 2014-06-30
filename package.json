@@ -1,6 +1,6 @@
 {
   "name": "terraform-connect",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "terraform asset pipeline as connect middleware",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/blackpearlsystems/terraform-connect.git"
+    "url": "git://github.com/ceejbot/terraform-connect.git"
   },
   "keywords": [
     "terraform",
@@ -17,10 +17,10 @@
     "expressjs",
     "asset-pipeline"
   ],
-  "author": "C J Silverio <ceej@blackpearlsystems.com>",
+  "author": "C J Silverio <ceejceej@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/blackpearlsystems/terraform-connect/issues"
+    "url": "https://github.com/ceejbot/terraform-connect/issues"
   },
   "dependencies": {
     "terraform": "^0.7.0",
