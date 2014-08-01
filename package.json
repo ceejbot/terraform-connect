@@ -1,6 +1,6 @@
 {
   "name": "terraform-connect",
-  "version": "0.0.4",
+  "version": "1.0.0",
   "description": "terraform asset pipeline as connect middleware",
   "main": "index.js",
   "scripts": {
